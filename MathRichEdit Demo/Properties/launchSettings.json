@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MathRichEdit Demo (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MathRichEdit Demo (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
