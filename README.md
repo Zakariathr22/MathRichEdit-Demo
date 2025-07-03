@@ -64,3 +64,10 @@ It’s a bit hacky, but it works flawlessly, and it’s the only reliable way to
 
 ## Search Engine Keywords
 WinUI 3 RichEditBox, RichEditBox math input, Unicode math input C#, WinUI 3 math editor, RichEditBox LaTeX style input, SendInput Unicode C#, C# RichEditBox example, WinUI 3 text editor, WinUI 3 Unicode input, C# virtual keyboard input, RichEditBox Unicode characters, simulate keyboard input C#, Win32 SendInput example, math formula rendering WinUI, RichEditBox code sample, WinUI 3 custom input, C# math symbols input, RichEditBox advanced usage, input automation C#, insert math symbols RichEditBox, math structures input C#, LaTeX-like input C#, math mode RichEditBox, matrix input RichEditBox, integrals and summation input, math editor Windows app, C# math notation support
+
+---
+
+**Written with passion by [Zakaria Tahri](https://github.com/Zakariathr22) ❤️**
+
+![gif](https://github.com/user-attachments/assets/ac4be485-b54e-4fa7-b359-b72a632df3a3)
+
